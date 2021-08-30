@@ -1,0 +1,1 @@
+/usr/src/myapp/target/wasm32-unknown-unknown/release/wasm_game_of_life.wasm: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-0.2.74/build.rs /usr/src/myapp/src/lib.rs /usr/src/myapp/src/utils.rs
